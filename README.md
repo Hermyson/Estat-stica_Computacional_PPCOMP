@@ -1,1 +1,1 @@
-# Estat-stica_Computacional_PPCOMP
+# Estatística_Computacional_PPCOMP
